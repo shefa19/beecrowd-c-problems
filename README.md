@@ -50,7 +50,7 @@ Below is my daily progress for Beecrowd problem-solving using **C language** to 
 
 📌 **Purpose:** Track daily problem-solving consistency and share progress transparently.  
 📌 **Language:** C (for algorithm and problem-solving practice).  
-📌 **Platform:** [Beecrowd](https://www.beecrowd.com.br/)  
+📌 **Platform:** [Beecrowd](https://judge.beecrowd.com/en/profile/1066526)
 📌 **Next Goal:** Continue daily uploads and complete beginner-level problems.
 
 ---
