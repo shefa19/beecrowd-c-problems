@@ -64,9 +64,10 @@ Below is my daily progress for Beecrowd problem-solving using **C language** to 
 
 
 
-## 🌻 About
+**Shefaul Islam Shefa**  
+_Backend Developer | Competitive Programmer | Creative Technologist_
 
-👨‍💻 **Md. Shafaul Islam Shefa**  
-📍 Dhaka, Bangladesh  
-📫 [Connect on LinkedIn](https://www.linkedin.com)  
+✉️ Email: [sishefa19@gmail.com](mailto:sishefa19@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sishefa19/)
+💻 [GitHub Profile](https://github.com/shefa19)
 🏆 [View My Beecrowd Profile](https://www.beecrowd.com.br/judge/en/profile/1066526)  
