@@ -53,6 +53,8 @@ Below is my daily progress for Beecrowd problem-solving using **C language** to 
 | 2025-08-02 | Uploaded **Beecrowd 1078-1080** (C) |
 | 2025-08-22 | Uploaded **Beecrowd 1094-1098** (C) |
 | 2025-08-25 | Uploaded **Beecrowd 1099,1101** (C) |
+| 2025-09-10 | Uploaded **Beecrowd 1113-1118** (C) |
+
 
 ---
 
