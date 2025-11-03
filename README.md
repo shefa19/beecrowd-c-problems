@@ -22,16 +22,9 @@ Here I document my learning journey, building logic, and improving coding consis
 
 ## 📁 Folder Structure
 beecrowd-c-solutions/
-├── beginner/
-│ ├── 1010.c
-│ ├── 1011.c
-│ └── ...
-├── intermediate/
-│ ├── ...
-└── README.md
+├── 1010.c
+├── 1011.c
 
-php-template
-Copy code
 
 ---
 
@@ -57,93 +50,28 @@ Copy code
 ---
 
 ## 📅 Daily Progress Log
-
-<table>
-  <tr>
-    <th align="center" style="background-color:#1E90FF; color:white;">📅 Date</th>
-    <th align="center" style="background-color:#1E90FF; color:white;">🚀 Progress</th>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-07-17</td>
-    <td>✅ Uploaded <b>Beecrowd 1010–1015</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-07-18</td>
-    <td>✅ Uploaded <b>Beecrowd 1016–1020</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-07-19</td>
-    <td>✅ Uploaded <b>Beecrowd 1035–1040</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-07-20</td>
-    <td>✅ Uploaded <b>Beecrowd 1041–1046</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#FFFACD;">2025-07-21</td>
-    <td>🟡 Uploaded <b>Beecrowd 1047–1052</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-07-25</td>
-    <td>✅ Uploaded <b>Beecrowd 1059–1061</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-07-26</td>
-    <td>✅ Uploaded <b>Beecrowd 1064–1067</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-07-27</td>
-    <td>✅ Uploaded <b>Beecrowd 1070–1075</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-07-28</td>
-    <td>✅ Uploaded <b>Beecrowd 1078–1080</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-07-29</td>
-    <td>✅ Uploaded <b>Beecrowd 1094–1098</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#FFFACD;">2025-08-01</td>
-    <td>🟡 Uploaded <b>Beecrowd 1099, 1101</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-08-02</td>
-    <td>✅ Uploaded <b>Beecrowd 1113–1118</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-08-03</td>
-    <td>✅ Uploaded <b>Beecrowd 1131–1134</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-08-05</td>
-    <td>✅ Uploaded <b>Beecrowd 1142–1146</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-08-09</td>
-    <td>✅ Uploaded <b>Beecrowd 1149–1151</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-08-11</td>
-    <td>✅ Uploaded <b>Beecrowd 1153–1156</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-08-13</td>
-    <td>✅ Uploaded <b>Beecrowd 1157–1160</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-08-15</td>
-    <td>✅ Uploaded <b>Beecrowd 1164–1165</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-08-17</td>
-    <td>✅ Uploaded <b>Beecrowd 1172–1177</b> (C)</td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color:#E6FFE6;">2025-08-18</td>
-    <td>✅ Uploaded <b>Beecrowd 1178–1181</b> (C)</td>
-  </tr>
-</table>
+| 📅 Date | 🚀 Progress |
+|---------|-------------|
+| 2025-07-17 | Uploaded **Beecrowd 1010–1015** (C) |
+| 2025-07-18 | Uploaded **Beecrowd 1016–1020** (C) |
+| 2025-07-19 | Uploaded **Beecrowd 1035–1040** (C) |
+| 2025-07-20 | Uploaded **Beecrowd 1041–1046** (C) |
+| 2025-07-21 | Uploaded **Beecrowd 1047–1052** (C) |
+| 2025-07-25 | Uploaded **Beecrowd 1059–1061** (C) |
+| 2025-07-26 | Uploaded **Beecrowd 1064–1067** (C) |
+| 2025-07-27 | Uploaded **Beecrowd 1070–1075** (C) |
+| 2025-07-28 | Uploaded **Beecrowd 1078–1080** (C) |
+| 2025-07-29 | Uploaded **Beecrowd 1094–1098** (C) |
+| 2025-08-01 | Uploaded **Beecrowd 1099,1101** (C) |
+| 2025-08-02 | Uploaded **Beecrowd 1113–1118** (C) |
+| 2025-08-03 | Uploaded **Beecrowd 1131–1134** (C) |
+| 2025-08-05 | Uploaded **Beecrowd 1142–1146** (C) |
+| 2025-08-09 | Uploaded **Beecrowd 1149–1151** (C) |
+| 2025-08-11 | Uploaded **Beecrowd 1153–1156** (C) |
+| 2025-08-13 | Uploaded **Beecrowd 1157–1160** (C) |
+| 2025-08-15 | Uploaded **Beecrowd 1164–1165** (C) |
+| 2025-08-17 | Uploaded **Beecrowd 1172–1177** (C) |
+| 2025-08-18 | Uploaded **Beecrowd 1178–1181** (C) |
 
 ---
 
@@ -163,7 +91,7 @@ Copy code
 
 ## 🙋‍♂️ Author
 **Shefaul Islam Shefa**  
-_Backend Developer | Competitive Programmer | Creative Technologist_  
+_Aspiring Software Engineer | Competitive Programmer | Creative Technologist_  
 
 ✉️ Email: [sishefa19@gmail.com](mailto:sishefa19@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sishefa19/)  
