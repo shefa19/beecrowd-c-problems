@@ -49,19 +49,19 @@ Below is my daily progress for Beecrowd problem-solving using **C language** to 
 | 2025-07-21 | Uploaded **Beecrowd 1047-1052** (C) |
 | 2025-07-25 | Uploaded **Beecrowd 1059-1061** (C) |
 | 2025-07-26 | Uploaded **Beecrowd 1064-1067** (C) |
-| 2025-08-01 | Uploaded **Beecrowd 1070-1075** (C) |
-| 2025-08-02 | Uploaded **Beecrowd 1078-1080** (C) |
-| 2025-08-22 | Uploaded **Beecrowd 1094-1098** (C) |
-| 2025-08-25 | Uploaded **Beecrowd 1099,1101** (C) |
-| 2025-09-10 | Uploaded **Beecrowd 1113-1118** (C) |
-| 2025-09-25 | Uploaded **Beecrowd 1131-1134** (C) |
-| 2025-10-05 | Uploaded **Beecrowd 1142-1146** (C) |
-| 2025-10-09 | Uploaded **Beecrowd 1149-1151** (C) |
-| 2025-10-11 | Uploaded **Beecrowd 1153-1156** (C) |
-| 2025-10-13 | Uploaded **Beecrowd 1157-1160** (C) |
-| 2025-10-15 | Uploaded **Beecrowd 1164-1165** (C) |
-| 2025-10-17 | Uploaded **Beecrowd 1172-1177** (C) |
-| 2025-10-18 | Uploaded **Beecrowd 1178-1181** (C) |
+| 2025-07-27 | Uploaded **Beecrowd 1070-1075** (C) |
+| 2025-07-28 | Uploaded **Beecrowd 1078-1080** (C) |
+| 2025-07-29 | Uploaded **Beecrowd 1094-1098** (C) |
+| 2025-08-01 | Uploaded **Beecrowd 1099,1101** (C) |
+| 2025-08-02 | Uploaded **Beecrowd 1113-1118** (C) |
+| 2025-08-03 | Uploaded **Beecrowd 1131-1134** (C) |
+| 2025-08-05 | Uploaded **Beecrowd 1142-1146** (C) |
+| 2025-08-09 | Uploaded **Beecrowd 1149-1151** (C) |
+| 2025-08-11 | Uploaded **Beecrowd 1153-1156** (C) |
+| 2025-08-13 | Uploaded **Beecrowd 1157-1160** (C) |
+| 2025-08-15 | Uploaded **Beecrowd 1164-1165** (C) |
+| 2025-08-17 | Uploaded **Beecrowd 1172-1177** (C) |
+| 2025-08-18 | Uploaded **Beecrowd 1178-1181** (C) |
 
 
 ---
