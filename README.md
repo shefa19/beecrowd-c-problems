@@ -91,7 +91,7 @@ beecrowd-c-solutions/
 
 ## 🙋‍♂️ Author
 **Shefaul Islam Shefa**  
-_Aspiring Software Engineer | Competitive Programmer | Creative Technologist_  
+_AI & Machine Learning Explorer | Passionate About Data-Driven Research & Innovation | CSE Undergraduate | Enthusiastic About Solving Real-World Problems Through Technology_  
 
 ✉️ Email: [sishefa19@gmail.com](mailto:sishefa19@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sishefa19/)  
