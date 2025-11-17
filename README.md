@@ -73,6 +73,7 @@ beecrowd-c-solutions/
 | 2025-01-19 | Uploaded **Beecrowd 1172–1177** (C) |
 | 2025-01-20 | Uploaded **Beecrowd 1178–1181** (C) |
 | 2025-01-21 | Uploaded **Beecrowd 1182-1186** (C) |
+| 2025-01-22 | Uploaded **Beecrowd 1187-1190** (C) |
 
 ---
 
