@@ -77,6 +77,7 @@ beecrowd-c-solutions/
 | 2025-01-23 | Uploaded **Beecrowd 1435, 1478, 1534, 1541** (C) |
 | 2025-01-24 | Uploaded **Beecrowd 1557, 1564, 1589** (C) |
 | 2025-01-25 | Uploaded **Beecrowd 1759, 1789, 1827, 1828** (C) |
+| 2025-01-26 | Uploaded **Beecrowd 1837, 1847 & 1848** (C) |
 
 ---
 
